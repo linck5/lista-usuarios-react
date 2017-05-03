@@ -1,3 +1,5 @@
-# react-todo-list
+# Como rodar
 
-Test [tutorial series on YouTube](https://www.youtube.com/playlist?list=PLQDnxXqV213JJFtDaG0aE9vqvp6Wm7nBg).
+- execute `npm install` para instalar os pacotes
+- execute `npm run serve` para rodar o servidor
+- acesse (localhost:3000) no navegador
